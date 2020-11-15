@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Create_An_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f74b05e0-6a5c-467d-bb61-178129bd7fa9</testCaseGuid>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>c7045522-a200-46b8-8cc4-386767dd4cb1</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>cf8023c3-3169-4d32-accc-689af865c80f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

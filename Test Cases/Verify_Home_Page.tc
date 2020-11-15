@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Home_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e818e42c-24c0-46ab-9041-6d4d7623ac7f</testCaseGuid>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>c64c67f4-e180-455a-a1b3-6ca7a507ea75</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>9ac01f6a-01dd-44e9-bcd5-158d17759ece</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

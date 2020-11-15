@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Invalid_Username_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a69fd8c8-6a5e-4a60-b2fc-dba31e3055bd</testCaseGuid>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>6b312d36-df0f-4f22-b96d-e207b33821b0</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>580c6805-f19f-4c4c-aaea-f68d76e08191</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

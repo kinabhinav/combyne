@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Contact_Us_Link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>862e678e-dee0-4499-a5a4-ba39f55ad447</testCaseGuid>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>f87185aa-cd73-4937-84b2-78ccb64a682e</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>fca9b61b-a324-4e2f-9f9f-ea92b6a3aa6c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

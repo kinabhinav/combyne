@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Blank_Username_Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2c05ab6-3ca1-43a8-89f5-07fc91056ce6</testCaseGuid>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>29a589f9-0c31-4c69-9e5a-623edaba810f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ab@gmail.com'</defaultValue>
+      <description></description>
+      <id>fdb51235-189a-415c-b9b3-c2e39811df66</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
